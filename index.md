@@ -1,7 +1,3 @@
-## Github Pages Portfolio page by
-## Alan Marin De Luna 11/02/2019
-## Jekyll Theme: Minimal
-
 Welcome, my name is Alan Marin. From 2014-2019 I held a variety of tech jobs while attending school part time. I was a computer repair technician, iOS App Developer, and fullstack developer Based in Bakersfield, CA. Currently I am pursuing to finish my B.S. in computer science by pursuing school full-time to finish by 2022 (or earlier if possible).
  
 You can use the [editor on GitHub](https://github.com/AlanMDL/alanmdl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
