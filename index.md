@@ -1,37 +1,13 @@
-Welcome, my name is Alan Marin. From 2014-2019 I held a variety of tech jobs while attending school part time. I was a computer repair technician, iOS App Developer, and fullstack developer Based in Bakersfield, CA. Currently I am pursuing to finish my B.S. in computer science by pursuing school full-time to finish by 2022 (or earlier if possible).
- 
-You can use the [editor on GitHub](https://github.com/AlanMDL/alanmdl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Alan Marin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About Me: Went to Bakersfield Community College for my lower division schooling and now a 3rd Year Computer Science Student at Cal State Long Beach. Experience working with Mobile App Development (Android,iOS,ReactNative). Currently learning Full Stack Web Development.
 
-### Markdown
+Professional Interests: Social Media, Computer Technology, Technology and Business Analysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technologies: Java, C++, Unix, Git, Swift, React and others.
 
-```markdown
-Syntax highlighted code block
+Languages: English (native), Spanish (native).
 
-# Header 1
-## Header 2
-### Header 3
+Interests: E-Sports and Casual Gaming(League of Legends, Fortnite and others), Finance, Computer Hardware, Lifting Weights, Music.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlanMDL/alanmdl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Legal Status: USA Citizen
