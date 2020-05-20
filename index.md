@@ -17,6 +17,21 @@ Legal Status: USA Citizen
 
 Employment:
 
+Building Healthy Communities (South Kern)
+Software Engineer Intern - Mobile                 2017-2020
+- Created, share and contribute the development of organization's iOS App (Swift)
+- Helped with Debugging, and development of Android app for organization use (Android,Kotlin)
+- Scrum/Agile
+- Documentation (Software Requirement Specifications)
+
+Cal State Bakersfield
+Research Student                                  2016-2017
+
 Education:
 
+Bakersfield College 2016 - 2020
+Major: Computer Science
+
+California State University Long Beach: 2020-2022
+Major: Computer Science
 Personal Projects:
