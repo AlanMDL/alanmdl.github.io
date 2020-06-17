@@ -1,7 +1,7 @@
 Alan Marin
 
 About Me:
-Went to Bakersfield Community College for my lower division schooling and now a Junior Computer Science Student at Cal State Long Beach.
+Went to Bakersfield Community College for my lower division computer science schooling and now a Junior Computer Science Student at Cal State Long Beach.
 
 Experience working with Mobile App Development (Android,iOS,ReactNative). Currently learning Full Stack Web Development.
 
@@ -25,12 +25,11 @@ Software Engineer Intern - Mobile              2017-2020
 - Documentation (Software Requirement Specifications)
 
 Cal State Bakersfield
-Research Student                                  2016-2017
+Ag Eng Research Student                                  2016-2017
+- Helped in research and development of agricultural methods for irrigation and improving efficiencies using SoC/Microcontroller hardware.
+- Worked in collaboration with Faculty leading the engineering research.
+- Tech used: C, Arduino, 3D-Fab, Ag Irrigation Systems
 
-Education:
-
-Bakersfield College: 2016 - 2020 (Working Full Time)
+California State University Long Beach
 Major: Computer Science
-
-California State University Long Beach: 2020-2022
-Major: Computer Science
+Expected Graduation: Spring 2022
