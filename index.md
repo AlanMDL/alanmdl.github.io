@@ -1,12 +1,15 @@
-Hi! My name is Alan Marin.
+Hello there! My name is Alan Marin, welcome. :)
 
-I am currently a junior at Cal State Long Beach majoring in computer science. Currently expecting to graduate Spring 2022. I am liking to further study the fundamentals of CompSci/Data Structures and Full Stack Web Development while I am still in college. I spend my time learning about software development and learning about the current landscape of opportunity out there. Social Media, Computer Technology, and debating technologies is what I'm interested in.
+I am currently a junior at Cal State Long Beach majoring in Computer Science. Currently expecting to graduate Spring 2022. I am currently working for inHealth as a Research Intern and Front End Developer.
 
-Previously, I have worked on building and scaling mobile ios/android applications for Healthy South Kern - Building Healthy Communities. I have also worked as a Ag Engineering Research Intern at Cal State Bakersfield. 
+I am liking to further my studies in computer science and hopefully get a career in software engineering. I also like to learn about entrepreneurship and the various opportunities out there.
+
+Previously, I have worked on building and scaling mobile ios/android applications for Healthy South Kern - Building Healthy Communities, a non-profit dedicated to increasing the quality of life for all californians who are living on the margins. I have also worked as a Ag Engineering Research Intern at Cal State Bakersfield developing more methodologies to increase the efficiency of how farming irrigation is conducted.
 
 My hobbies come and go, but I am into software engineering, social media, finance, lifting weights, and making music.
 
-Contact Me:
+Have any questions? Contact Me at:
 
 E-mail: alanmarin1996@gmail.com
+
 Twitter: @AlanMarinDeluna
