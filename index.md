@@ -4,4 +4,9 @@ I am currently a junior at Cal State Long Beach majoring in computer science. Cu
 
 Previously, I have worked on building and scaling mobile ios/android applications for Healthy South Kern - Building Healthy Communities. I have also worked as a Ag Engineering Research Intern at Cal State Bakersfield. 
 
-My hobbies come and go, but I am into social media, competitive e-sports gaming, finance, lifting weights, and making music.
+My hobbies come and go, but I am into software engineering, social media, finance, lifting weights, and making music.
+
+Contact Me:
+
+E-mail: alanmarin1996@gmail.com
+Twitter: @AlanMarinDeluna
